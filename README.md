@@ -2,6 +2,7 @@
 # NO AI SLOP
 
 ![Preview CLI](assets/preview.png)
+![Preview CLI](assets/preview2.png)
 
 Stop AI agents from generating sloppy code...
 
@@ -13,7 +14,7 @@ npm install -g no-ai-slop
 Quick start:
 ```bash
 noslop init
-noslop install https://github.com/example/anti-slop
+noslop install https://github.com/dukunhost11/anti-slop
 noslop apply --target agents
 ```
 
