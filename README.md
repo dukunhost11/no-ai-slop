@@ -1,7 +1,7 @@
 
 # NO AI SLOP
 
-![Preview CLI](assets/Screenshot 2026-09-24 083731.png)
+![Preview CLI](assets/preview.png)
 
 Stop AI agents from generating sloppy code...
 
