@@ -1,6 +1,9 @@
+
 # NO AI SLOP
 
-Stop AI agents from generating sloppy code and generic UI.
+![Preview CLI](assets/Screenshot 2026-09-24 083731.png)
+
+Stop AI agents from generating sloppy code...
 
 Installation:
 ```bash
